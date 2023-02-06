@@ -2,7 +2,7 @@
 
 1- Clone this project on Your local machine.
 
-2- Create a virtual environment using python -m venv <env-name>.
+2- Create a virtual environment using python -m venv "env-name".
   
 3- Activate the Environment.
   
